@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'Marleen') {
-    	message.reply('Raksuuuuu, tule siia! Annan sulle perselaksu!');
+    	message.reply('Raksuuuuu, tule siia! Annan sulle perselaksuuuuuuuu!');
   	}
 });
 
